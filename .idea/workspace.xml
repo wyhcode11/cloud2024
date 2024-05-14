@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a524174-90f5-4e5f-8e3b-ab2be796a135" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../jdk-17/lib/src.zip!/java.base/java/lang/IllegalArgumentException.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\maven\apache-maven-3.9.6" />
+        <option name="userSettingsFile" value="C:\maven\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fYCnoSuFCCoD2xOxFzhy6bIwE7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP 请求.generated-requests | #1.executor": "Run",
+    "Maven.cloud-api-commons [install].executor": "Run",
+    "Maven.cloud2024 [clean].executor": "Run",
+    "Maven.mybatis-generator2024 [org.mybatis.generator:mybatis-generator-maven-plugin:1.4.2:generate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Main2001.executor": "Run",
+    "Spring Boot.Main2002.executor": "Run",
+    "Spring Boot.Main2003.executor": "Run",
+    "Spring Boot.Main3377.executor": "Run",
+    "Spring Boot.Main80.executor": "Run",
+    "Spring Boot.Main8001.executor": "Run",
+    "Spring Boot.Main8002.executor": "Run",
+    "Spring Boot.Main81.executor": "Run",
+    "Spring Boot.Main83.executor": "Run",
+    "Spring Boot.Main8401.executor": "Run",
+    "Spring Boot.Main9001.executor": "Run",
+    "Spring Boot.Main9527.executor": "Run",
+    "Spring Boot.MainOpenFeign80.executor": "Run",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/王一涵/IdeaProjects/cloud2024/seata-order-service2003/src/main/resources/mapper",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Main.executor": "Run"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\王一涵\IdeaProjects\cloud2024\seata-order-service2003\src\main\resources\mapper" />
+      <recent name="C:\Users\王一涵\IdeaProjects\cloud2024\seata-order-service2003\src\main\java\com\atguigu\cloud" />
+      <recent name="C:\Users\王一涵\IdeaProjects\cloud2024\seata-storage-service2002\src\main\resources\mapper" />
+      <recent name="C:\Users\王一涵\IdeaProjects\cloud2024\seata-storage-service2002\src\main\java\com\atguigu\cloud" />
+      <recent name="C:\Users\王一涵\IdeaProjects\cloud2024\seata-order-service2001\src\main\resources\mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\王一涵\IdeaProjects\cloud2024" />
+      <recent name="C:\IdealProject" />
+      <recent name="C:\Users\王一涵\IdeaProjects" />
+      <recent name="C:\IdeaProjects" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main9001">
+    <configuration name="Main2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main2001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main2002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seata-accout-service2003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main2003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-config-nacos-client3377" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main3377" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-consumer-nacos-order83" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main83" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-sentinel-service8401" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main8401" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud-gateway9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9528" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloudalibaba-sentinel-gateway9528" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.Main9528" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainOpenFeign80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cloud-consumer-feign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cloud.MainOpenFeign80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main83" />
+        <item itemvalue="Spring Boot.Main9001" />
+        <item itemvalue="Spring Boot.Main8401" />
+        <item itemvalue="Spring Boot.Main3377" />
+        <item itemvalue="Spring Boot.Main8001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4a524174-90f5-4e5f-8e3b-ab2be796a135" name="更改" comment="" />
+      <created>1713968794906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713968794906</updated>
+      <workItem from="1713968795992" duration="242000" />
+      <workItem from="1713969072589" duration="53000" />
+      <workItem from="1713969133217" duration="22000" />
+      <workItem from="1713969188190" duration="53000" />
+      <workItem from="1713969349835" duration="1857000" />
+      <workItem from="1714012581284" duration="327000" />
+      <workItem from="1714012919234" duration="201000" />
+      <workItem from="1714013127928" duration="113000" />
+      <workItem from="1714013316134" duration="536000" />
+      <workItem from="1714013860932" duration="847000" />
+      <workItem from="1714014718440" duration="82000" />
+      <workItem from="1714014819455" duration="810000" />
+      <workItem from="1714015637744" duration="119000" />
+      <workItem from="1714015763706" duration="241000" />
+      <workItem from="1714016012319" duration="1488000" />
+      <workItem from="1714019621925" duration="3968000" />
+      <workItem from="1714039541980" duration="428000" />
+      <workItem from="1714039977934" duration="8046000" />
+      <workItem from="1714103072796" duration="15997000" />
+      <workItem from="1714269876633" duration="2379000" />
+      <workItem from="1714274105729" duration="18000" />
+      <workItem from="1714274130505" duration="246000" />
+      <workItem from="1714274385610" duration="136000" />
+      <workItem from="1714274529976" duration="108000" />
+      <workItem from="1714274645647" duration="33000" />
+      <workItem from="1714274687746" duration="44000" />
+      <workItem from="1714274766583" duration="12978000" />
+      <workItem from="1714454838429" duration="2816000" />
+      <workItem from="1714824958075" duration="2666000" />
+      <workItem from="1714902797928" duration="2485000" />
+      <workItem from="1714984347471" duration="332000" />
+      <workItem from="1715042991678" duration="11526000" />
+      <workItem from="1715129454384" duration="14012000" />
+      <workItem from="1715215276841" duration="615000" />
+      <workItem from="1715217634315" duration="9964000" />
+      <workItem from="1715306312619" duration="30000" />
+      <workItem from="1715306350027" duration="6507000" />
+      <workItem from="1715344510345" duration="2338000" />
+      <workItem from="1715388828648" duration="4598000" />
+      <workItem from="1715405961421" duration="15979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
